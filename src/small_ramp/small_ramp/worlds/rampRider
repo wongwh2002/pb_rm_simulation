@@ -1,3 +1,4 @@
+
 <sdf version='1.7'>
   <world name='test_world'>
     <light name='sun' type='directional'>
