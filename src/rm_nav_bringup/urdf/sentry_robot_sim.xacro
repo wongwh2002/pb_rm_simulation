@@ -232,6 +232,7 @@
       <covariance_y>0.0001</covariance_y>
       <covariance_yaw>0.01</covariance_yaw>
     </plugin>
+    
   </gazebo>
 
   <!-- mid360_imu plugin -->
